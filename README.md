@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cedric, an <a href="https://linkedin.com/in/cedric-horton-6689b5187/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Cedric, an <a href="https://linkedin.com/in/cedric-horton-6689b5187/">IT Professional</a>👨🏽‍💻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
